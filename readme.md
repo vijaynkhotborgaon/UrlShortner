@@ -1,5 +1,5 @@
 
-                     <h1 style="color:blue;background-color:gray">UrlShortner Application<h1>
+                                                     UrlShortner Application
 ---------------------------------------------------------------------------------------------------------------------------------------                                                
 
 Used Technologies: 
