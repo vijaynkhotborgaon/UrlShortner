@@ -51,10 +51,17 @@ Follow below steps to access "Url Shortner" application :
 
 Steps for accessing Url Shortner application using localhost (inside htdoc file)
 ---------------------------------------------------------------------------------------------
+Used framework: Laravel 
+
+version: 5.5
+
+Requirements:
+
+1. install XAMPP
+2. install "Composer" for dependany management. link : https://getcomposer.org
+
 
 Downlaod file from github. link : https://github.com/vijaynkhotborgaon/UrlShortner
-
-Used framework: Laravel version: 5.5
 
 Once you downloaded file, unzip it. After unzipping you will get folder as "UrlShortner-master". Please rename it to "UrlShortner".
 
@@ -65,10 +72,17 @@ Database setup :
 2. import database in phpMyadmin by selecting database "urlshortner" (you will get "urlshortner.sql" file inside "UrlShortner" folder)
 
 
-
 Follow below steps to access "Url Shortner" application :
 
-1. copy "UrlShortner" folder which you downloaded from github and paste it inside folder "htdoc"
+1. copy "UrlShortner" folder which you downloaded from github and paste it inside folder "htdocs"
 
-2. access "UrlShortner" application using "http://localhost/UrlShortner/public/"
+2. install composer by using command "composer install" by using command line (in this case move to htdocs/Urlshortner using cammand line and run "composer install")
+
+3. access "UrlShortner" application using "http://localhost/UrlShortner/public/"
+
+4. How you can remove "public" from your URL :
+    
+   Step 1 : copy .htaccess file by going inside "public" folder and paste it in root folder.
+   
+   Step 2 : rename "server.php" file to "index.php" (you will find "server.php" file in root folder)
 
