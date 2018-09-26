@@ -16,7 +16,7 @@ class CreateShortnersTable extends Migration
        
 		 Schema::create('shortners', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('short_url');
+            $table->string('short_url', 800);
             $table->string('unique_code');
          });
     }
