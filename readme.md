@@ -15,6 +15,7 @@ Follow below steps to access "Url Shortner" application :
 
 1. open command line and move inside file which you downloaded from github (in this case inside "UrlShortner" folder)
 
+2. install composer by using command "composer install"
 
 3. Create database in phpMyadmin(you can use Xampp to create database using phpMyadmin) and give name to database as "urlshortner".
 
@@ -31,13 +32,13 @@ Follow below steps to access "Url Shortner" application :
    import database in phpMyadmin(i have used XAMPP) by selecting database "urlshortner" (you will get "urlshortner.sql" file inside "UrlShortner" folder)
    
    
-3. run command "php artisan serve" (do not include double quotes while running command)
+4. run command "php artisan serve" (do not include double quotes while running command)
 
-4. This command will give result something as "Laravel development server started : <http://127.0.0.1:8000>".
+5. This command will give result something as "Laravel development server started : <http://127.0.0.1:8000>".
 
-5. copy "http://127.0.0.1:8000" from above result and paste into your browser and press enter key.
+6. copy "http://127.0.0.1:8000" from above result and paste into your browser and press enter key.
 
-6. It will redirect to application home page and you can enter any url inside input to create short url's.
+7. It will redirect to application home page and you can enter any url inside input to create short url's.
 
 
 
