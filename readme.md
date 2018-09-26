@@ -27,7 +27,7 @@ Follow below steps to access "Url Shortner" application :
 
                                            OR
                                            
-   You can import tables and data to phpMyadmin without using artisan commands. No need to follow step 1 and step 2 in this case. This is manual way to upload database in phpMyadim.
+   You can import tables and data to phpMyadmin without using artisan commands(No need to follow step 1 and step 2 in this case. This is manual way to upload database in phpMyadmim).
    
    import database in phpMyadmin(i have used XAMPP) by selecting database "urlshortner" (you will get "urlshortner.sql" file inside "UrlShortner" folder)
    
