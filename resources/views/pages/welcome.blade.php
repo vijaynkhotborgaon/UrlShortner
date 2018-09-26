@@ -41,7 +41,8 @@
 	<div class="col-md-8" style="background-color:#BDBAF9;padding-top:30px;padding-bottom:20px;">
 		
 		<!-- table for short and long url's -->
-		<table class="table table-responsive" id="mytable">
+		<div class="table-responsive">
+		<table class="table" id="mytable">
 			<thead>
 			<tr>
 				<th>#</th>
@@ -70,6 +71,7 @@
 		
 			</tbody>
 		</table>
+		</div>
 	</div>
 </div>
 		

@@ -99,6 +99,7 @@ class ShortnersTableSeeder extends Seeder {
 		DB::table('shortners')->insert(['short_url' => 'http://www.google.com.ph','unique_code' => 'emgu3']);
 		DB::table('shortners')->insert(['short_url' => 'http://www.doubleclick.net','unique_code' => 'emgu3']);
 		DB::table('shortners')->insert(['short_url' => 'http://www.onet.pl','unique_code' => '8ln8d']);
+		DB::table('shortners')->insert(['short_url' => 'http://www.googleweblight.com','unique_code' => 'ox3en']);
 		DB::table('shortners')->insert(['short_url' => 'http://www.googleadservices.com','unique_code' => 'btb10']);
 		DB::table('shortners')->insert(['short_url' => 'http://www.accuweather.com','unique_code' => 'sfn1e']);
 		DB::table('shortners')->insert(['short_url' => 'http://www.answers.yahoo.com','unique_code' => 's9z5p']);
