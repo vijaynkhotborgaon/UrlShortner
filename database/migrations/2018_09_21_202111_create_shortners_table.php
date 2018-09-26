@@ -18,8 +18,7 @@ class CreateShortnersTable extends Migration
             $table->increments('id');
             $table->string('short_url');
             $table->string('unique_code');
-            $table->timestamps();
-        });
+         });
     }
 
     /**
