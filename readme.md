@@ -5,6 +5,9 @@ Steps for accessing Url Shortner application using command line and laravel serv
 
 Downlaod file from github. link : https://github.com/vijaynkhotborgaon/UrlShortner
 
+Used framework: Laravel
+version: 5.5
+
 Once you downloaded file, unzip it. After unzipping you will get folder as "UrlShortner-master". Please rename it to "UrlShortner".
 
    
