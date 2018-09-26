@@ -45,7 +45,11 @@ Follow below steps to access "Url Shortner" application :
 Steps for accessing Url Shortner application using localhost (inside htdoc file)
 ---------------------------------------------------------------------------------------------
 
-Downlaod file from github. link : 
+Downlaod file from github. link : https://github.com/vijaynkhotborgaon/UrlShortner
+
+Used framework: Laravel version: 5.5
+
+Once you downloaded file, unzip it. After unzipping you will get folder as "UrlShortner-master". Please rename it to "UrlShortner".
 
 Database setup :
 
