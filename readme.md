@@ -3,9 +3,13 @@
 Steps for accessing Url Shortner application using command line and laravel server
 --------------------------------------------------------------------------------------
 
-Used framework: Laravel
+Used techologies: 
 
-version: 5.5
+1. Laravel 5.5 (PHP Framework)
+
+2. Bootstrap (HTML, CSS and Javascript framewok)
+
+3. DataTable plugin
 
 Requirements:
 
