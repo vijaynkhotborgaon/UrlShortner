@@ -1,9 +1,8 @@
 
+                     <h1 style="color:blue;background-color:gray">UrlShortner Application<h1>
+---------------------------------------------------------------------------------------------------------------------------------------                                                
 
-Steps for accessing Url Shortner application using command line and laravel server
---------------------------------------------------------------------------------------
-
-Used techologies: 
+Used Technologies: 
 
 1. Laravel 5.5 (PHP Framework)
 
@@ -15,6 +14,10 @@ Requirements:
 
 1. install XAMPP
 2. install "Composer" for dependany management. link : https://getcomposer.org
+
+
+Steps for accessing Url Shortner application using command line and laravel server
+--------------------------------------------------------------------------------------
 
 Downlaod file from github. link : https://github.com/vijaynkhotborgaon/UrlShortner
 
@@ -51,18 +54,8 @@ Follow below steps to access "Url Shortner" application :
 7. It will redirect to application home page and you can enter any url inside input to create short url's.
 
 
-
-
 Steps for accessing Url Shortner application using localhost (inside htdoc file)
 ---------------------------------------------------------------------------------------------
-Used framework: Laravel 
-
-version: 5.5
-
-Requirements:
-
-1. install XAMPP
-2. install "Composer" for dependany management. link : https://getcomposer.org
 
 
 Downlaod file from github. link : https://github.com/vijaynkhotborgaon/UrlShortner
